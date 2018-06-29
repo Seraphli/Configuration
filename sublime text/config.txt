@@ -1,0 +1,17 @@
+{
+	"draw_centered": false,
+	"font_face": "Ubuntu Mono",
+	"font_size": 16,
+	"gutter": true,
+	"ignored_packages":
+	[
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": true
+}
